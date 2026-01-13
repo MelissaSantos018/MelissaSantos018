@@ -14,9 +14,6 @@
 - Web Designer
 
 ---
-<p align="center">
-  <img src="https://github.com/MelissaSantos018.png" width="160" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
@@ -46,7 +43,6 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-![Snake animation](https://github.com/MelissaSantos018/MelissaSantos018/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
